@@ -1,0 +1,27 @@
+{
+  "name": "come-back-to-city",
+  "displayName": "come back to city",
+  "description": "Contrasty dark theme",
+  "author": {
+    "email": "itsjzt@duck.com",
+    "name": "Saurabh Sharma",
+    "url": "https://itsjzt.com"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "publisher": "saurabhsharma",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Come back to city",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Come back to city-color-theme.json"
+      }
+    ]
+  }
+}
